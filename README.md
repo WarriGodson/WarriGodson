@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WarriGodson
 - 👀 I’m interested in Vulnerability hunting
 - 🌱 I’m currently learning what it means to be HUMAN
-- 💞️ I’m looking to collaborate on https://keywordmetrics.com/ (https://github.com/julesfounder/keywordmetrics)
+- 💞️ I collaborated on https://keywordmetrics.com/ (https://github.com/julesfounder/keywordmetrics)
 - 📫 How to reach me Email: contact@warrigodson.site Twitter: https://x.com/warrigodson0
 - ⚡ Fun fact: Code is like humor. When you have to explain it, it’s bad. – Cory House
 
